@@ -1,0 +1,7 @@
+C:\Users\chri45i4\source\repos\Tilfaeldigheder\Tilfaeldigheder\bin\Debug\Tilfaeldigheder.exe.config
+C:\Users\chri45i4\source\repos\Tilfaeldigheder\Tilfaeldigheder\bin\Debug\Tilfaeldigheder.exe
+C:\Users\chri45i4\source\repos\Tilfaeldigheder\Tilfaeldigheder\bin\Debug\Tilfaeldigheder.pdb
+C:\Users\chri45i4\source\repos\Tilfaeldigheder\Tilfaeldigheder\obj\Debug\Tilfaeldigheder.csprojAssemblyReference.cache
+C:\Users\chri45i4\source\repos\Tilfaeldigheder\Tilfaeldigheder\obj\Debug\Tilfaeldigheder.csproj.CoreCompileInputs.cache
+C:\Users\chri45i4\source\repos\Tilfaeldigheder\Tilfaeldigheder\obj\Debug\Tilfaeldigheder.exe
+C:\Users\chri45i4\source\repos\Tilfaeldigheder\Tilfaeldigheder\obj\Debug\Tilfaeldigheder.pdb
